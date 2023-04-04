@@ -1,4 +1,5 @@
 ## BACA DULU BANG
+[![Run on Repl.it](https://repl.it/badge/github/IrfnCode/irfncodebot)](https://repl.it/github/IrfnCode/irfncodebot)
 
 > **Warning**: Sc nya gk support termux. [`Klik disini untuk download sc yg support termux`](https://github.com/zeeoneofficial/Alphabot-Md/#For-Termux)
 
